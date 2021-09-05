@@ -1,4 +1,12 @@
+#include "includes/hello.h"
+#include <iostream>
+
+using namespace std;
+
 int main(void)
 {
-    return 0;
+    int power2 = power(2);
+    cout << "2^2 = " << power2 << endl;
+
+    return power2;
 }

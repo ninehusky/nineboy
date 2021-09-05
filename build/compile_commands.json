@@ -20,11 +20,6 @@
   "file": "/Users/sumant/Desktop/nineboy/tests/HelloTest.cpp"
 },
 {
-  "directory": "/Users/sumant/Desktop/nineboy/build/tests",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/sumant/Desktop/nineboy/. -I/Users/sumant/Desktop/nineboy/include -I/usr/local/include -isystem /Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googletest/include -isystem /Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=11.0 -std=gnu++17 -o CMakeFiles/tests.dir/SomeTest.cpp.o -c /Users/sumant/Desktop/nineboy/tests/SomeTest.cpp",
-  "file": "/Users/sumant/Desktop/nineboy/tests/SomeTest.cpp"
-},
-{
   "directory": "/Users/sumant/Desktop/nineboy/build/_deps/googletest-build/googlemock",
   "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/sumant/Desktop/nineboy/. -I/Users/sumant/Desktop/nineboy/include -I/usr/local/include -I/Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googlemock/include -I/Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googlemock -isystem /Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googletest/include -isystem /Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=11.0 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
   "file": "/Users/sumant/Desktop/nineboy/build/_deps/googletest-src/googlemock/src/gmock-all.cc"

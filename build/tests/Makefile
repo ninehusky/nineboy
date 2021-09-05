@@ -233,30 +233,6 @@ HelloTest.cpp.s:
 	cd /Users/sumant/Desktop/nineboy/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/HelloTest.cpp.s
 .PHONY : HelloTest.cpp.s
 
-SomeTest.o: SomeTest.cpp.o
-.PHONY : SomeTest.o
-
-# target to build an object file
-SomeTest.cpp.o:
-	cd /Users/sumant/Desktop/nineboy/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/SomeTest.cpp.o
-.PHONY : SomeTest.cpp.o
-
-SomeTest.i: SomeTest.cpp.i
-.PHONY : SomeTest.i
-
-# target to preprocess a source file
-SomeTest.cpp.i:
-	cd /Users/sumant/Desktop/nineboy/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/SomeTest.cpp.i
-.PHONY : SomeTest.cpp.i
-
-SomeTest.s: SomeTest.cpp.s
-.PHONY : SomeTest.s
-
-# target to generate assembly for a file
-SomeTest.cpp.s:
-	cd /Users/sumant/Desktop/nineboy/build && $(MAKE) $(MAKESILENT) -f tests/CMakeFiles/tests.dir/build.make tests/CMakeFiles/tests.dir/SomeTest.cpp.s
-.PHONY : SomeTest.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -277,9 +253,6 @@ help:
 	@echo "... HelloTest.o"
 	@echo "... HelloTest.i"
 	@echo "... HelloTest.s"
-	@echo "... SomeTest.o"
-	@echo "... SomeTest.i"
-	@echo "... SomeTest.s"
 .PHONY : help
 
 

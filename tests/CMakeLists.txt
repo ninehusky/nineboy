@@ -3,7 +3,6 @@ set(TESTS_EXE_NAME tests)
 set(TESTS_src
   AllTests.cpp
   HelloTest.cpp
-  SomeTest.cpp
 )
 
 add_executable(${TESTS_EXE_NAME} ${TESTS_src})

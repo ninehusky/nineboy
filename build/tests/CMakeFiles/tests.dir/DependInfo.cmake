@@ -10,7 +10,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/sumant/Desktop/nineboy/tests/AllTests.cpp" "tests/CMakeFiles/tests.dir/AllTests.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/AllTests.cpp.o.d"
   "/Users/sumant/Desktop/nineboy/tests/HelloTest.cpp" "tests/CMakeFiles/tests.dir/HelloTest.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/HelloTest.cpp.o.d"
-  "/Users/sumant/Desktop/nineboy/tests/SomeTest.cpp" "tests/CMakeFiles/tests.dir/SomeTest.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/SomeTest.cpp.o.d"
   )
 
 # Targets to which this target links.

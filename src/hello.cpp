@@ -1,10 +1,8 @@
-#include <iostream>
+#include "includes/hello.h"
 
 using namespace std;
 
-int main(void)
+int power(int x)
 {
-
-  cout << "Hello, World!" << endl;
-  return 1;
+  return 1 << x;
 }
