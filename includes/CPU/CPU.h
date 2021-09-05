@@ -7,6 +7,7 @@ class CPU
 {
 public:
     unsigned int execute();
+    CPU();
 
 private:
     unsigned int pc_;

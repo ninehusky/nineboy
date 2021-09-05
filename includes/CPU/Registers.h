@@ -19,7 +19,7 @@ public:
     uint16_t get_BC() { return (B << 8) | C; }
     uint16_t get_DE() { return (D << 8) | E; }
     uint16_t get_HL() { return (H << 8) | L; }
-}
+};
 
 struct Flags
 {

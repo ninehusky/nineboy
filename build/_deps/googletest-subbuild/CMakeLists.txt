@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file Copyright.txt or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 3.21.2)
+cmake_minimum_required(VERSION 3.20.5)
 
 # We name the project and the target for the ExternalProject_Add() call
 # to something that will highlight to the user what we are working on if
@@ -14,8 +14,8 @@ project(googletest-populate NONE)
 include(ExternalProject)
 ExternalProject_Add(googletest-populate
                      "UPDATE_DISCONNECTED" "False" "URL" "https://github.com/google/googletest/archive/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip"
-                    SOURCE_DIR          "/Users/sumant/Desktop/nineboy/build/_deps/googletest-src"
-                    BINARY_DIR          "/Users/sumant/Desktop/nineboy/build/_deps/googletest-build"
+                    SOURCE_DIR          "/Users/niney/Desktop/code/nineboy/build/_deps/googletest-src"
+                    BINARY_DIR          "/Users/niney/Desktop/code/nineboy/build/_deps/googletest-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

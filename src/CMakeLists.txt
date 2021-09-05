@@ -1,7 +1,8 @@
 # Source files (except the `main.cc` for the executable):
-# set(APP_LIB_src
-#  hello.cpp
-#)
+set(APP_LIB_src
+  CPU/CPU.cpp
+  memory/Memory.cpp
+)
 
 set(APP_MAIN_src
   main.cpp

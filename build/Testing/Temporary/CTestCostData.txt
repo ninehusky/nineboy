@@ -1,5 +1,0 @@
-hello_test_NOT_BUILT 0 0
-HelloTest.BasicAssertions 2 0
-TEST_CASES 1 0
----
-TEST_CASES

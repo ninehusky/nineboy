@@ -8,7 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/sumant/Desktop/nineboy/src/hello.cpp" "src/CMakeFiles/nineboy-api.dir/hello.cpp.o" "gcc" "src/CMakeFiles/nineboy-api.dir/hello.cpp.o.d"
+  "/Users/niney/Desktop/code/nineboy/src/CPU/CPU.cpp" "src/CMakeFiles/nineboy-api.dir/CPU/CPU.cpp.o" "gcc" "src/CMakeFiles/nineboy-api.dir/CPU/CPU.cpp.o.d"
+  "/Users/niney/Desktop/code/nineboy/src/memory/Memory.cpp" "src/CMakeFiles/nineboy-api.dir/memory/Memory.cpp.o" "gcc" "src/CMakeFiles/nineboy-api.dir/memory/Memory.cpp.o.d"
   )
 
 # Targets to which this target links.

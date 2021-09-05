@@ -8,14 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/sumant/Desktop/nineboy/tests/AllTests.cpp" "tests/CMakeFiles/tests.dir/AllTests.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/AllTests.cpp.o.d"
-  "/Users/sumant/Desktop/nineboy/tests/HelloTest.cpp" "tests/CMakeFiles/tests.dir/HelloTest.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/HelloTest.cpp.o.d"
+  "/Users/niney/Desktop/code/nineboy/tests/AllTests.cpp" "tests/CMakeFiles/tests.dir/AllTests.cpp.o" "gcc" "tests/CMakeFiles/tests.dir/AllTests.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/sumant/Desktop/nineboy/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/Users/sumant/Desktop/nineboy/build/src/CMakeFiles/nineboy-api.dir/DependInfo.cmake"
+  "/Users/niney/Desktop/code/nineboy/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/niney/Desktop/code/nineboy/build/src/CMakeFiles/nineboy-api.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
