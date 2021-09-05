@@ -1,0 +1,3 @@
+/Users/sumant/Desktop/nineboy/build/CMakeFiles/rebuild_cache.dir
+/Users/sumant/Desktop/nineboy/build/CMakeFiles/edit_cache.dir
+/Users/sumant/Desktop/nineboy/build/CMakeFiles/nineboy.dir
