@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnineboy-api.a CMakeFiles/nineboy-api.dir/hello.cpp.o
+/usr/bin/ranlib libnineboy-api.a
