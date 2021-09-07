@@ -227,12 +227,28 @@ src/CMakeFiles/nineboy.dir/main.cpp.o: ../src/main.cpp \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/stack \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/deque \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/__split_buffer \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/iomanip \
   ../includes/CPU/CPU.h \
   ../includes/CPU/Registers.h \
-  ../includes/memory/Memory.h
+  ../includes/memory/Memory.h \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/vector \
+  ../includes/memory/Memory.h \
+  ../includes/memory/RAM.h
 
+
+../includes/memory/RAM.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/vector:
 
 ../includes/CPU/CPU.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/iomanip:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/stack:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference:
 
@@ -304,6 +320,8 @@ src/CMakeFiles/nineboy.dir/main.cpp.o: ../src/main.cpp \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/pthread/pthread_impl.h:
 
+/Library/Developer/CommandLineTools/usr/include/c++/v1/deque:
+
 /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/ratio:
@@ -329,6 +347,8 @@ src/CMakeFiles/nineboy.dir/main.cpp.o: ../src/main.cpp \
 /Library/Developer/CommandLineTools/usr/include/c++/v1/stdexcept:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/i386/limits.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/filesystem:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/limits.h:
 
@@ -439,6 +459,8 @@ src/CMakeFiles/nineboy.dir/main.cpp.o: ../src/main.cpp \
 /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_intmax_t.h:
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/__split_buffer:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_pid_t.h:
 

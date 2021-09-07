@@ -6,14 +6,14 @@
 class Registers
 {
 public:
-    uint8_t A;
-    uint8_t B;
-    uint8_t C;
-    uint8_t D;
-    uint8_t E;
-    uint8_t F;
-    uint8_t H;
-    uint8_t L;
+    int A = 0;
+    int B = 0;
+    int C = 0;
+    int D = 0;
+    int E = 0;
+    int F = 0;
+    int H = 0;
+    int L = 0;
 
     uint16_t get_AF() { return (A << 8) | B; }
     uint16_t get_BC() { return (B << 8) | C; }
